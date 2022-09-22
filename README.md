@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Varut Wiseschinda
-- 👀 I’m interested in data science and data engineer
-- 🌱 I’m currently learning quantum computing
-- 📫 Please reach me by email: varutw@gmail.com
+# Welcome!
+My name is Varut Wiseschinda.
+You can also call me Pete.
+I'm from Thailand.
+I'm a data engineer and data scientist.
+Please find my Linkedin link [here](https://www.linkedin.com/in/varut-wiseschinda-807a24a1/).  
 
-<!---
-varutw/varutw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
